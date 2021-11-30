@@ -1,6 +1,8 @@
 # CSC4223 Final Project
 ## Caleb Rumsey, Tony Ngo, Drew Hartman
 
+## Link to Google Slides Presentation: https://docs.google.com/presentation/d/1qdMPr10sXVcmzfYjrGYxV6z7tCydF67GhN4QUKeC4g4/edit?usp=sharing
+
 ### Getting Started
 
 #### Prerequisites
