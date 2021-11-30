@@ -26,3 +26,4 @@
   1. `$ git clone https://github.com/tonyngo-1/csc4223-finalproject.git`
 - Open a terminal
   1. Run `python3 project.py` in folder
+- `project_results.txt` will contain data with original data from `seed_node_pairs.txt` along with newly added values
